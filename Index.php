@@ -6,3 +6,5 @@ echo "welcome_home?";
 echo"Hello?";
 $x = 6 + 20 * 3;
 echo $x;
+$x = john;
+echo 'hello $x';

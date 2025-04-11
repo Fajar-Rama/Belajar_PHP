@@ -8,3 +8,4 @@ $x = 6 + 20 * 3;
 echo $x;
 $x = john;
 echo 'hello $x';
+echo strpos("hello world", "world");

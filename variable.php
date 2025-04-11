@@ -9,4 +9,5 @@ $age = 23;
 $txt = "school_um";
 echo "I like .$txt";
 echo $x * $z;
+echo str_word_count("hello everyone");
 

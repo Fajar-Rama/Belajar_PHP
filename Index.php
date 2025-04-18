@@ -1,11 +1,10 @@
 <?php
-echo 11+23*30/40;
-echo 'hello_everyone';
-echo "welcome_home?";
+echo "hello world";
+$color = "blue";
+echo "my car is " . $color . "<br>";
+echo "welcome home!";//
+// echo "welcome home!";
 /*
-echo"Hello?";
-$x = 6 + 20 * 3;
-echo $x;
-$x = john;
-echo 'hello $x';
-echo strpos("hello world", "world");
+echo "welcome home!";
+*/
+echo "hello!";

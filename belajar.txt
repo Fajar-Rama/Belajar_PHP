@@ -1,0 +1,6 @@
+echo 'hello';
+echo "hello";
+echo strlen("hello world");
+$x = 10
+$y = 50
+echo ("$x * $y");

@@ -14,3 +14,4 @@ $u = 25; // local scope
 echo "<p>Variable y outside function is: $u</p>";
 $t = 30; // static scope
 echo "<p>Variable z outside function is: $t</p>";
+"<>";

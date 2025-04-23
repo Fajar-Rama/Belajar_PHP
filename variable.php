@@ -1,13 +1,13 @@
 <?php
-$x=10/*+20*/+25;
-echo $x;
+$x=25.1;
+echo $x. "<br>";
 $y=50;
 $z="john";
 $txt="school";
-echo "i love" . $txt . "!";
-echo $x + $y;
-var_dump($x);
-echo $z;
+echo "i love" . $txt . "!". "<br>";
+echo $x + $y. "<br>";
+var_dump($x). "<br>";
+echo "<br>" . $z . "<br>";
 $v = 10; // global scope
 echo "<p>Variable x outside function is: $v</p>";
 $u = 25; // local scope

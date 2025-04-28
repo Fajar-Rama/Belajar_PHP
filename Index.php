@@ -15,3 +15,6 @@ $food = array(
 );
 
 print_r($food);
+echo "today is " . date("2025-04-28") . "<br>";
+echo "this month is " . date("F") . "<br>";
+echo "this time is " . date("08:30:50"). "<br>";

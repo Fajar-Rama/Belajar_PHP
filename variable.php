@@ -19,6 +19,9 @@ $drink = array (
     array("teh", 15,5000),
     array("botol air", 7, 3000)
 );
+
+echo (min(0, 200, 50, 10, -10, -40) . "<br>:)");
+
 ?>
 <html>
 <body>

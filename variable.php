@@ -1,4 +1,6 @@
 <?php
+// start the session
+session_start();
 $x = 25.1;
 echo $x . "<br>";
 $y = 50;
@@ -29,3 +31,5 @@ echo (min(0, 200, 50, 10, -10, -40) . "<br>:)");
 <p>This is my first time using PHP</p>
 </body>
 </html>
+<?php
+// echo "hello";

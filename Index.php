@@ -25,3 +25,6 @@ echo "End of script.";
 $x = 25.2;
 $y = 40;
 echo $x * $y . "<br>";
+$name = "fajar";
+function mymessage($name) {
+    echo "hello $name";}

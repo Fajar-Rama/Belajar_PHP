@@ -5,3 +5,7 @@ $car3 = array("brand" => "suzuki", "model" => "swift", "price" => 50000000);
 $x = 70.01;
 $y = 100.28;
 echo $car1["brand"[0]] . "<br>";
+?>
+<?php
+echo "<br>";
+

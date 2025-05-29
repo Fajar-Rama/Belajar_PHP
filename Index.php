@@ -1,4 +1,6 @@
 <?php
+namespace fajar;
+
 $cookie_name = "user account";
 $cookie_value = "fajarrama";
 echo "hello world";
@@ -28,3 +30,10 @@ echo $x * $y . "<br>";
 $name = "fajar";
 function mymessage($name) {
     echo "hello $name";}
+echo "hello!";
+echo "selamat datang";
+namespace fajar;
+echo "selamat datang";
+?>
+<?php
+echo "<br>";

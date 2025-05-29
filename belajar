@@ -7,3 +7,6 @@ $y = 50;
 echo ("$x * $y");
 echo str_word_count("hello world!");
 $car5 = array ("brand" => "innova");
+?>
+<?php
+echo "<br>";
